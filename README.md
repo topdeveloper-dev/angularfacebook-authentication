@@ -1,1 +1,1 @@
-# angularfacebook-authentication
+# angularfacebook--authentication
