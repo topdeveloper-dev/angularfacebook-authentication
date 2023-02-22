@@ -10,13 +10,13 @@ import { ProfileComponent } from './profile/profile.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
-  declarations: [
-    AppComponent,
-    LoginComponent,
-    RegisterComponent,
-    HomeComponent,
-    ProfileComponent
-  ],
+  // declarations: [
+  //   AppComponent,
+  //   LoginComponent,
+  //   RegisterComponent,
+  //   HomeComponent,
+  //   ProfileComponent
+  // ],
   imports: [
     BrowserModule,
     AppRoutingModule,
